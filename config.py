@@ -1,2 +1,0 @@
-census_api_key="30d51c3c910980c624de4110316fc7c52561a5c7"
-bls_api_key="91346ae026124e96aa12b78c3deb8810"
